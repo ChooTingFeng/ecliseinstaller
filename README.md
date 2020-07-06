@@ -1,5 +1,7 @@
 Instructions on how to use this
 
+First of all, download this repo and extract to a directory
+
 1. Go to settings on your emulator, and enable "Android Debug Bridge" or USB Debugging (Google can help)  
 1a. For a real android phone, search how to enable developer options for your phone and enable USB debugging there  
 1b. You'll also have to connect a cable from your phone to PC if you install it on a real phone  
