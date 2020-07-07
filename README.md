@@ -21,7 +21,7 @@ First of all, download this repo and extract to a directory
 2. execute importNA.bat or importROW.bat and it should work
 
 ##Save File exporter
-1. run exportNA.bat or exportROW.bat and your files will show up
+1. run exportNA.bat or exportROW.bat and your files will show up. 
 NOTE! /activequests does not create a folder, instead, you will get the folder inside activequests, so to reimport, place exported files into a new folder called /activequests  
 
 Example: script will create /XXXXX_ActiveQuests which inside has files  
