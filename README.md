@@ -7,7 +7,7 @@ First of all, download this repo and extract to a directory
 
 *ATTENTION FOR 1.7 BETA USERS!*
 
-Instructions!
+Instructions! (LITE! SEE BELOW FOR FULL INSTRUCTIONS)
 1. Use exportROW or exportNA to get your pp.dat and activequests (requires manually creating a folder for activequests)
 2. Uninstall Eclise
 3. Install new ECLISE.apk and new obb with ECL.bat
