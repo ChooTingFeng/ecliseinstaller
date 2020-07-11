@@ -10,7 +10,7 @@ First of all, download this repo and extract to a directory
 Instructions!
 1. Use exportROW or exportNA to get your pp.dat and activequests (requires manually creating a folder for activequests)
 2. Uninstall Eclise
-3. Install new ECLISE.apk and new obb.
+3. Install new ECLISE.apk and new obb with ECL.bat
 4. Use importECL.bat to import pp.dat back.
 
 Explanation of the activequests folder:
