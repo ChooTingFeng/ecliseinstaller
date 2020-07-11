@@ -2,6 +2,11 @@ Instructions on how to use this
 
 First of all, download this repo and extract to a directory
 
+*ATTENTION FOR 1.7 BETA USERS!*
+
+Use ECL.bat, and importECL.bat and exportECL.bat if you are starting fresh!
+
+
 1. Go to settings on your emulator, and enable "Android Debug Bridge" or USB Debugging (Google can help)  
 1a. For a real android phone, search how to enable developer options for your phone and enable USB Debugging there  
 1b. You'll also have to connect a cable from your phone to PC if you install it on a real phone  
@@ -21,7 +26,7 @@ First of all, download this repo and extract to a directory
 2. execute importNA.bat or importROW.bat and it should work
 
 ##Save File exporter
-1. run exportNA.bat or exportROW.bat and your files will show up. 
+1. run exportNA.bat or exportROW.bat and your files will show up
 NOTE! /activequests does not create a folder, instead, you will get the folder inside activequests, so to reimport, place exported files into a new folder called /activequests  
 
 Example: script will create /XXXXX_ActiveQuests which inside has files  
