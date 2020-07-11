@@ -11,6 +11,12 @@ Instructions!
 1. Use exportROW or exportNA to get your pp.dat and activequests (requires manually creating a folder for activequests)
 2. Uninstall Eclise
 3. Install new ECLISE.apk and new obb.
+4. Use importECL.bat to import pp.dat back.
+
+Explanation of the activequests folder:
+
+My script only can pull the folders inside /activequest, aka it will get stuff inside it, so you'll have to create a folder called /activequests and put the files/folders from there and move them.
+
 
 Alternative text:
 
@@ -31,7 +37,7 @@ Use exportROW or exportNA to obtain pp.dat from your old game!
 
 4. Run na.bat or row.bat and be patient, follow instructions as they show up
 
-5. Enjoy the game!
+5. Enjoye the game!
 
 ##Save File importer
 
