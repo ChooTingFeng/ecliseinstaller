@@ -15,8 +15,8 @@ Instructions!
 
 Explanation of the activequests folder:
 
-My script only can pull the folders inside /activequest, aka it will get stuff inside it, so you'll have to create a folder called /activequests and put the files/folders from there and move them.
-
+My script only can pull the folders inside /activequest, aka it will get stuff inside it, so you'll have to create a folder called /activequests and put the files/folders from there into it.
+(See explanation further down)
 
 Alternative text:
 
