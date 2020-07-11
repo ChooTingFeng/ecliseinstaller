@@ -2,12 +2,20 @@ Instructions on how to use this
 
 First of all, download this repo and extract to a directory
 
-Youtube showcase: https://youtu.be/WnKsKt0cVuY
+(Personal) Youtube showcase: https://youtu.be/WnKsKt0cVuY
 ---------------------------------------------------------------------------------------------------
 
 *ATTENTION FOR 1.7 BETA USERS!*
 
+Instructions!
+1. Use exportROW or exportNA to get your pp.dat and activequests (requires manually creating a folder for activequests)
+2. Uninstall Eclise
+3. Install new ECLISE.apk and new obb.
+
+Alternative text:
+
 Use ecl.bat, and importECL.bat and exportECL.bat if you are starting fresh!
+
 Use exportROW or exportNA to obtain pp.dat from your old game!
 
 ---------------------------------------------------------------------------------------------------
