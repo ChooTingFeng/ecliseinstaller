@@ -2,10 +2,15 @@ Instructions on how to use this
 
 First of all, download this repo and extract to a directory
 
+Youtube showcase: https://youtu.be/WnKsKt0cVuY
+---------------------------------------------------------------------------------------------------
+
 *ATTENTION FOR 1.7 BETA USERS!*
 
-Use ECL.bat, and importECL.bat and exportECL.bat if you are starting fresh!
+Use ecl.bat, and importECL.bat and exportECL.bat if you are starting fresh!
+Use exportROW or exportNA to obtain pp.dat from your old game!
 
+---------------------------------------------------------------------------------------------------
 
 1. Go to settings on your emulator, and enable "Android Debug Bridge" or USB Debugging (Google can help)  
 1a. For a real android phone, search how to enable developer options for your phone and enable USB Debugging there  
